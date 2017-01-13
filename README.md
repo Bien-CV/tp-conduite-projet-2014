@@ -61,30 +61,3 @@
 ## Remerciements
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
-
-* Tony Merrien,
-* Rémi Plantade,
-* A Louis Chevalier,
-* Pancher Pierre-louis,
-* Le Deunf Meryem,
-* Met-Montot Bertille,
-* Quesnel Guillaume,
-* Simon Roger,
-* Simon Roger,
-* Virgil Deschamps,
-* Tony Merrien,
-* Rémi Plantade,
-* A Louis Chevalier,
-* Pancher Pierre-louis,
-* A Thibault Gauran,
-* Yann Guenver,
-* Baptiste Canovas-Virly,
-* Toulmonde Joris,
-* Godefroy Thieulart,
-* Basset Hector,
-* Guedouard Wajdi,
-* Godefroy Thieulart,
-* Basset Hector,
-* Dezere Florian,
-* Lemée Arthur.
->>>>>>> 04cf04be04432b6a746737fa863301d75a37ebb9
